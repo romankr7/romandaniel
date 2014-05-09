@@ -1,0 +1,17 @@
+.main-container {
+	margin:20px;
+	width:320pt;
+	height:480pt;
+	border:1px solid black;
+}
+
+
+/*
+page 0
+*/
+.page-0 button {
+	width:150pt;
+	height:35pt;
+	margin-top:50pt;
+	margin-left:83pt;
+}
